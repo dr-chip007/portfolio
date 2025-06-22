@@ -3,20 +3,14 @@
 **Descripción del proyecto**  
 Preprocesamiento de los datos de una tienda en línea.
 
----
-
 ## 🎯 Objetivo
 
 Garantizar la coherencia en la recopilación de datos y evaluar la calidad de los datos recopilados sobre los usuarios. 
-
----
 
 ## 🧠 Tecnologías y Herramientas
 
 - Lenguaje: Python
 - Herramientas: Google Colab, Jupyter Notebook, Git.
-
----
 
 ## 📂 Estructura del Proyecto
 
