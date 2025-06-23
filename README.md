@@ -1,4 +1,4 @@
-# César Iván Huerta – Data Scientist | Quantum Computing | ML Engineer
+# César Huerta – Data Scientist | Quantum Computing | ML Engineer
 
 Welcome to my project portfolio. Here you'll find selected work that highlights my skills in data science, machine learning, and quantum computing.
 
