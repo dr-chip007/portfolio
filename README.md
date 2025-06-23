@@ -6,8 +6,9 @@ Welcome to my project portfolio. Here you'll find selected work that highlights 
 
 | Project | Description | Open |
 |--------|-------------|------|
-| Quantum Portfolio Optimizer | A Qiskit-based simulation of portfolio optimization using quantum circuits. | [Notebook](projects/quantum-optimizer/notebook.ipynb) / [Run in Colab](https://colab.research.google.com/github/USERNAME/portfolio/blob/main/projects/quantum-optimizer/notebook.ipynb) |
-| Customer Churn ML Model | Logistic regression and random forest model with >90% accuracy. | [Notebook](projects/ml-churn-prediction/notebook.ipynb) / [Run in Colab](https://colab.research.google.com/github/USERNAME/portfolio/blob/main/projects/ml-churn-prediction/notebook.ipynb) |
+| Ecommerce Data Preprocessing | Preprocessing of data from an e-commerce store. | [Notebook](/projects/ecommerce_data_preprocessing/ecommerce_data_preprocessing.ipynb) / [Run in Colab](https://colab.research.google.com/github/dr-chip007/portfolio/blob/main/projects/ecommerce_data_preprocessing/ecommerce_data_preprocessing.ipynb) |
+| Data Analysis and Hypothesis Testing | Comparison of the musical preferences of the cities of Springfield and Shelbyville. | [Notebook](projects/data_analysis_hypothesis_testing/data_analysis_hypothesis_testing.ipynb) / [Run in Colab]([https://drive.google.com/file/d/1AmJJ4y1yULu4_znCUYI1_7m4L1TGzc6k/view?usp=sharing](https://colab.research.google.com/github/dr-chip007/portfolio/blob/main/projects/data_analysis_hypothesis_testing/data_analysis_hypothesis_testing.ipynb)) |
+| Instacart Data Wrangling | Data wrangling for the grocery delivery platform Instacart. | [Notebook](projects/instacart_data_wrangling/instacart_data_wrangling.ipynb) / [Run in Colab](https://colab.research.google.com/github/dr-chip007/portfolio/blob/main/projects/instacart_data_wrangling/instacart_data_wrangling.ipynb) |
 
 ## 📄 About Me
 
