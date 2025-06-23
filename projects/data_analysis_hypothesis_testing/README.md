@@ -19,7 +19,7 @@ Comparar el comportamiento de los usuarios de estas dos ciudades y probar la hip
 📁 /data_analysis_hypothesis_testing/
 │
 ├── data_analysis_hypothesis_testing.ipynb       # Notebook con el código principal
-├── music_project_en.csv                         # (si aplica) Datos de entrada
+├── music_project_en.csv                         # Datos de entrada
 ├── README.md                                    # Descripción del proyecto
 └── colab_link.md                                # Link de Google Colab
 
